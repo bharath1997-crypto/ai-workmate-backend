@@ -1,4 +1,4 @@
-## AI Storyboard Generator
+## Storyboard
 
 Turn a simple idea into a compact storyboard: 6–10 beats with titles, brief descriptions, and image prompts. Includes a Gemini/ChatGPT‑style web UI and a CLI. Uses a pluggable LLM provider with a zero‑cost Mock provider by default; OpenAI is optional.
 

@@ -4,7 +4,7 @@ from ai_storyboard.service import StoryboardService
 
 
 def main():
-    parser = argparse.ArgumentParser(description="AI Storyboard generator")
+    parser = argparse.ArgumentParser(description="Storyboard generator")
     parser.add_argument("idea", help="Idea or premise to storyboard")
     parser.add_argument("-o", "--out", help="Output JSON file")
     args = parser.parse_args()
