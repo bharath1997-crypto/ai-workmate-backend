@@ -13,7 +13,7 @@ TEMPLATE = """
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AI Storyboard</title>
+  <title>Storyboard</title>
   <style>
     :root {
       --bg: #ffffff;
@@ -128,7 +128,7 @@ TEMPLATE = """
 <body>
   <header class="topbar">
     <div class="topbar-inner">
-      <div class="brand"><div class="logo"></div> AI Storyboard</div>
+      <div class="brand"><div class="logo"></div> Storyboard</div>
       <div class="actions">
         <button class="icon-btn" id="themeToggle" title="Toggle theme">Theme</button>
       </div>
